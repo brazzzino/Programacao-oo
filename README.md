@@ -1,3 +1,4 @@
 # Programação O.O.
 
-Aluno: Douglas Clayton da Silva
+Alunos: Douglas Clayton da Silva
+        Denyse Panza Clemente Ferreira
