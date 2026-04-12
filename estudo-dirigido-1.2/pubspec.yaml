@@ -1,0 +1,4 @@
+name: programacao_oo
+description: Estudo Dirigido 1 - POO Tuiuti
+environment:
+  sdk: '>=3.0.0 <4.0.0'
